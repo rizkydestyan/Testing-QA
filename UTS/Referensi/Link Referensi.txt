@@ -1,0 +1,39 @@
+Link Referensi:
+
+1. Dicoding. "White Box Testing." URL: [https://www.dicoding.com/blog/white-box-testing/](https://www.dicoding.com/blog/white-box-testing/)
+
+2. Stack Overflow. "Unit Tests: White Box vs. Black Box Strategies." URL: [https://stackoverflow.com/questions/23112087/unit-tests-white-box-vs-black-box-strategies](https://stackoverflow.com/questions/23112087/unit-tests-white-box-vs-black-box-strategies)
+
+3. Python Documentation. "unittest — Unit testing framework." URL: [https://docs.python.org/3/library/unittest.html](https://docs.python.org/3/library/unittest.html)
+
+4. Software Engineering Stack Exchange. "Is Python doctest a white box or black box technique?" URL: [https://softwareengineering.stackexchange.com/questions/371610/is-python-doctest-a-white-box-or-black-box-technique](https://softwareengineering.stackexchange.com/questions/371610/is-python-doctest-a-white-box-or-black-box-technique)
+
+5. GeeksforGeeks. "Differences between Black Box Testing vs White Box Testing." URL: [https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/](https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/)
+
+6. RevoU. "Kosakata - White Box Testing." URL: [https://revou.co/kosakata/white-box-testing](https://revou.co/kosakata/white-box-testing)
+
+7. Dwi Kusumastuti Puji Rahayu. "Perbedaan White Box dan Black Box Testing." URL: [https://dspace.uii.ac.id/bitstream/handle/123456789/28341/13523202%20Dwi%20Kusumastuti%20Puji%20Rahayu.pdf?isAllowed=y&sequence=1](https://dspace.uii.ac.id/bitstream/handle/123456789/28341/13523202%20Dwi%20Kusumastuti%20Puji%20Rahayu.pdf?isAllowed=y&sequence=1)
+
+8. Glints. "Unit Testing adalah." URL: [https://glints.com/id/lowongan/unit-testing-adalah/](https://glints.com/id/lowongan/unit-testing-adalah/)
+
+9. Domainesia. "White Box Testing." URL: [https://www.domainesia.com/berita/white-box-testing/](https://www.domainesia.com/berita/white-box-testing/)
+
+10. BINUS University. "Teknik dalam White Box dan Black Box Testing." URL: [https://socs.binus.ac.id/2020/07/02/teknik-dalam-white-box-dan-black-box-testing/](https://socs.binus.ac.id/2020/07/02/teknik-dalam-white-box-dan-black-box-testing/)
+
+11. BINUS University. "Perbedaan White Box Testing dan Black Box Testing." URL: [https://student-activity.binus.ac.id/himsisfo/2016/10/perbedaan-white-box-testing-dan-black-box-testing/](https://student-activity.binus.ac.id/himsisfo/2016/10/perbedaan-white-box-testing-dan-black-box-testing/)
+
+12. BINUS University. "Software Testing." URL: [https://socs.binus.ac.id/2020/06/30/software-testing/](https://socs.binus.ac.id/2020/06/30/software-testing/)
+
+13. Wikipedia. "White-box testing." URL: [https://en.wikipedia.org/wiki/White-box_testing](https://en.wikipedia.org/wiki/White-box_testing)
+
+14. Domainesia. "CI/CD adalah." URL: [https://www.domainesia.com/tips/ci-cd-adalah/](https://www.domainesia.com/tips/ci-cd-adalah/)
+
+15. Medium. "Seri DevOps: Arsip Pipeline CI/CD dalam Seri DevOps." URL: [https://razzubair.medium.com/bab-2-seri-devops-arsitektur-pipeline-ci-cd-dalam-seri-devops-f1e3d2182c89](https://razzubair.medium.com/bab-2-seri-devops-arsitektur-pipeline-ci-cd-dalam-seri-devops-f1e3d2182c89)
+
+16. Google Cloud. "Modern CI/CD Anthos Reference Architecture." URL: [https://cloud.google.com/anthos-config-management/docs/tutorials/modern-cicd-anthos-reference-architecture](https://cloud.google.com/anthos-config-management/docs/tutorials/modern-cicd-anthos-reference-architecture)
+
+17. Guru99. "White Box Testing." URL: [https://www.guru99.com/white-box-testing.html](https://www.guru99.com/white-box-testing.html)
+
+18. LambdaTest. "Learning Hub - White Box Testing." URL: [https://www.lambdatest.com/learning-hub/white-box-testing](https://www.lambdatest.com/learning-hub
+
+/white-box-testing)
